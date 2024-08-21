@@ -12,11 +12,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yashwanthal2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashwanthal2004" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yashwanth-al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwanth-al" height="30" width="40" /></a>
-<a href="https://fb.com/yashwanth.al.35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashwanth.al.35" height="30" width="40" /></a>
-<a href="https://instagram.com/yashwanth_al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashwanth_al" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashwanth_a_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashwanth_a_l" height="30" width="40" /></a>
+<a href="https://twitter.com/yashwanthal2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashwanthal2004" height="30" width="40" /></a>
+<a href="https://instagram.com/yashwanth_al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashwanth_al" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Yashwanthal.2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashwanth.al.35" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
