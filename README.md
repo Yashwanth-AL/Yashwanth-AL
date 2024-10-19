@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img align="right" alt="coding" width="300" height="180" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+  <img align="right" alt="coding" width="300" height="170" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   <p align="left">
     - 🔭 I’m currently working on <strong>Full-Stack Web development</strong><br><br>
     - 👨‍💻 All of my projects are available at <a href="https://github.com/Yashwanth-AL" target="_blank"><strong>GitHub</strong></a><br><br>
