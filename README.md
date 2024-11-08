@@ -50,8 +50,8 @@
 <hr>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashwanth-al)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-AL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yashwanth-AL&theme=highcontrast)](https://git.io/streak-stats)</br>
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-AL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <hr>
 
