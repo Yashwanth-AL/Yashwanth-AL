@@ -19,7 +19,7 @@
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwanth-al) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/yashwanth_a_l)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Yashwanth-AL)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashwanth_al) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Yashwanthal.2004) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yashwanthal2004)
@@ -56,4 +56,4 @@
 <hr>
 
 # 💻 Leetcode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/Yashwanth_A_L?ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Yashwanth-AL?ext=heatmap)
