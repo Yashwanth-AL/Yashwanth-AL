@@ -56,4 +56,4 @@
 <hr>
 
 # 💻 Leetcode Stats:
-![LeetCode Stats](https://leetcode.card.workers.dev/yashwanth_a_l?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Yashwanth_A_L?ext=heatmap)
