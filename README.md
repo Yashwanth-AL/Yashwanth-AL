@@ -9,6 +9,7 @@
   <img align="right" alt="coding" width="320" height="165" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   <p align="left">
     - 🔭 I’m currently working on <strong>Full-Stack Web development</strong><br><br>
+    - 💻 I’m also passionate about <strong>Data Structures and Algorithms (DSA)</strong><br><br>
     - 👨‍💻 All of my projects are available at <a href="https://github.com/Yashwanth-AL" target="_blank"><strong>GitHub</strong></a><br><br>
     - 📫 How to reach me: <a href="mailto:yashwanthal2004@gmail.com"><strong>yashwanthal2004@gmail.com</strong></a><br><br>
     - ⚡ Fun fact: <strong>I enjoy problem-solving and learning new technologies!</strong>
